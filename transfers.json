@@ -1,0 +1,7021 @@
+[
+  {
+    "season": 143,
+    "start_year": 2014,
+    "end_year": 2013,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Andrew Robertson",
+          "FROM": "Queen's Park",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Paul Paton",
+          "FROM": "Partick",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Brian Graham",
+          "FROM": "Raith",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Chris Erskine",
+          "FROM": "Partick",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Kudus Oyenuga",
+          "FROM": "Hayes & Y",
+          "FEE": "Free",
+          "DATE": "04 Jul, 2013"
+        },
+        {
+          "PLAYER": "Calum Butcher",
+          "FROM": "Hayes & Y",
+          "FEE": "Free",
+          "DATE": "04 Jul, 2013"
+        },
+        {
+          "PLAYER": "Nadir Ciftci",
+          "FROM": "NAC Breda",
+          "FEE": "Free",
+          "DATE": "25 Jul, 2013"
+        },
+        {
+          "PLAYER": "Mark Wilson",
+          "FROM": "Bristol C",
+          "FEE": "Free",
+          "DATE": "23 Aug, 2013"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Johnny Russell",
+          "TO": "Derby",
+          "FEE": "£750,000",
+          "DATE": "10 Jun, 2013"
+        },
+        {
+          "PLAYER": "Willo Flood",
+          "TO": "Aberdeen",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Willie Robertson",
+          "TO": "Alloa",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Robert Thomson",
+          "TO": "Dunfermline",
+          "FEE": "",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Steve Banks",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Richie Ryan",
+          "TO": "Shamrock R",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Jon Daly",
+          "TO": "Rangers",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Marcus Tornstrand",
+          "TO": "IFK Ostersund",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2013"
+        },
+        {
+          "PLAYER": "Brian McLean",
+          "TO": "Ross County",
+          "FEE": "Free",
+          "DATE": "30 Jul, 2013"
+        },
+        {
+          "PLAYER": "Ross Smith",
+          "TO": "Stenh'semuir",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 2013"
+        },
+        {
+          "PLAYER": "Total: £750,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "Curtis Good",
+          "FROM": "Newcastle",
+          "START": "31 Jan, 2014",
+          "END": ""
+        },
+        {
+          "PLAYER": "Farid El Alagui",
+          "FROM": "Brentford",
+          "START": "08 Jan, 2014",
+          "END": ""
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "Luke Johnston",
+          "TO": "Montrose",
+          "START": "13 Dec, 2013",
+          "END": ""
+        },
+        {
+          "PLAYER": "Mark Millar",
+          "TO": "Falkirk",
+          "START": "31 Oct, 2013",
+          "END": ""
+        },
+        {
+          "PLAYER": "Darren Petrie",
+          "TO": "Brechin",
+          "START": "18 Oct, 2013",
+          "END": ""
+        },
+        {
+          "PLAYER": "Michael Gardyne",
+          "TO": "Kilmarnock",
+          "START": "30 Aug, 2013",
+          "END": ""
+        },
+        {
+          "PLAYER": "Chris Erskine",
+          "TO": "Partick",
+          "START": "20 Jan, 2014",
+          "END": ""
+        },
+        {
+          "PLAYER": "Dale Hilson",
+          "TO": "Forfar",
+          "START": "26 Aug, 2013",
+          "END": ""
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Patrick Barrett",
+          "DATE": "01 Jul, 2013",
+          "": ""
+        },
+        {
+          "PLAYER": "Filip Mentel",
+          "DATE": "01 Jul, 2013",
+          "": ""
+        },
+        {
+          "PLAYER": "Robbie Neilson",
+          "DATE": "01 Jul, 2013",
+          "": ""
+        },
+        {
+          "PLAYER": "Euan Spark",
+          "DATE": "01 Jul, 2013",
+          "": ""
+        },
+        {
+          "PLAYER": "Gregory Vignal",
+          "DATE": "01 Jul, 2013",
+          "": ""
+        },
+        {
+          "PLAYER": "Rudi Skacel",
+          "DATE": "01 Jul, 2013",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 142,
+    "start_year": 2013,
+    "end_year": 2012,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Radoslaw Cierzniak",
+          "FROM": "Cracovia",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2012"
+        },
+        {
+          "PLAYER": "Michael Gardyne",
+          "FROM": "Ross County",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2012"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Paul Dixon",
+          "TO": "Huddersfield",
+          "FEE": "Free",
+          "DATE": "27 Jun, 2012"
+        },
+        {
+          "PLAYER": "Dusan Pernis",
+          "TO": "Pogon Szczecin",
+          "FEE": "",
+          "DATE": "01 Jul, 2012"
+        },
+        {
+          "PLAYER": "Scott Robertson",
+          "TO": "Blackpool",
+          "FEE": "Free",
+          "DATE": "27 Jul, 2012"
+        },
+        {
+          "PLAYER": "Gary Kenneth",
+          "TO": "Bristol R",
+          "FEE": "Free",
+          "DATE": "30 Jul, 2012"
+        },
+        {
+          "PLAYER": "Barry Douglas",
+          "TO": "Lech Poznan",
+          "FEE": "Signed",
+          "DATE": "28 May, 2013"
+        },
+        {
+          "PLAYER": "Johnny Russell",
+          "TO": "Derby",
+          "FEE": "£750,000",
+          "DATE": "10 Jun, 2013"
+        },
+        {
+          "PLAYER": "Total: £750,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Ross Smith",
+          "DATE": "31 May, 2013",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 141,
+    "start_year": 2012,
+    "end_year": 2011,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Gary Mackay-Steven",
+          "FROM": "Airdrieonians",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2011"
+        },
+        {
+          "PLAYER": "Gavin Gunning",
+          "FROM": "Blackburn",
+          "FEE": "Signed",
+          "DATE": "12 Aug, 2011"
+        },
+        {
+          "PLAYER": "Richie Ryan",
+          "FROM": "Sligo Rovers",
+          "FEE": "Signed",
+          "DATE": "01 Jan, 2012"
+        },
+        {
+          "PLAYER": "Mark Millar",
+          "FROM": "Falkirk",
+          "FEE": "Free",
+          "DATE": "31 May, 2012"
+        },
+        {
+          "PLAYER": "Brian McLean",
+          "FROM": "Preston",
+          "FEE": "Signed",
+          "DATE": "14 Jun, 2012"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "David Robertson",
+          "TO": "St Johnstone",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2011"
+        },
+        {
+          "PLAYER": "Andis Shala",
+          "TO": "Hallescher",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2011"
+        },
+        {
+          "PLAYER": "Prince Buaben",
+          "TO": "Watford",
+          "FEE": "Free",
+          "DATE": "14 Jul, 2011"
+        },
+        {
+          "PLAYER": "David Goodwillie",
+          "TO": "Blackburn",
+          "FEE": "Signed",
+          "DATE": "03 Aug, 2011"
+        },
+        {
+          "PLAYER": "Scott Allan",
+          "TO": "West Brom",
+          "FEE": "£300,000",
+          "DATE": "10 Jan, 2012"
+        },
+        {
+          "PLAYER": "Danny Swanson",
+          "TO": "Peterborough",
+          "FEE": "Free",
+          "DATE": "06 Jun, 2012"
+        },
+        {
+          "PLAYER": "Total: £300,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Michael Kovacevic",
+          "DATE": "01 Jul, 2011",
+          "": ""
+        },
+        {
+          "PLAYER": "Scott Severin",
+          "DATE": "31 Jan, 2012",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 140,
+    "start_year": 2011,
+    "end_year": 2010,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Barry Douglas",
+          "FROM": "Queen's Park",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 2010"
+        },
+        {
+          "PLAYER": "Scott Severin",
+          "FROM": "Watford",
+          "FEE": "Signed",
+          "DATE": "10 Sep, 2010"
+        },
+        {
+          "PLAYER": "John Rankin",
+          "FROM": "Hibernian",
+          "FEE": "Free",
+          "DATE": "17 May, 2011"
+        },
+        {
+          "PLAYER": "Willo Flood",
+          "FROM": "Middlesbro",
+          "FEE": "Free",
+          "DATE": "24 May, 2011"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Fran Sandaza",
+          "TO": "Brighton",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 2010"
+        },
+        {
+          "PLAYER": "Damian Casalinuovo",
+          "TO": "Hamilton",
+          "FEE": "Signed",
+          "DATE": "10 Sep, 2010"
+        },
+        {
+          "PLAYER": "Jennison Myrie-Williams",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "14 Sep, 2010"
+        },
+        {
+          "PLAYER": "Danny Cadamarteri",
+          "TO": "Huddersfield",
+          "FEE": "Free",
+          "DATE": "31 Jan, 2011"
+        },
+        {
+          "PLAYER": "Craig Hill",
+          "TO": "Airdrieonians",
+          "FEE": "Signed",
+          "DATE": "01 Jun, 2011"
+        },
+        {
+          "PLAYER": "Darren Dods",
+          "TO": "Falkirk",
+          "FEE": "Free",
+          "DATE": "13 Jun, 2011"
+        },
+        {
+          "PLAYER": "Ryan McCord",
+          "TO": "Alloa",
+          "FEE": "Free",
+          "DATE": "13 Jun, 2011"
+        },
+        {
+          "PLAYER": "Morgaro Gomis",
+          "TO": "Birmingham",
+          "FEE": "Free",
+          "DATE": "16 Jun, 2011"
+        },
+        {
+          "PLAYER": "Craig Conway",
+          "TO": "Cardiff",
+          "FEE": "Free",
+          "DATE": "21 Jun, 2011"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Michael Lee",
+          "DATE": "31 May, 2011",
+          "": ""
+        },
+        {
+          "PLAYER": "Timothy van der Meulen",
+          "DATE": "31 May, 2011",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 139,
+    "start_year": 2010,
+    "end_year": 2009,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Jennison Myrie-Williams",
+          "FROM": "Bristol C",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2009"
+        },
+        {
+          "PLAYER": "Damian Casalinuovo",
+          "FROM": "Platense",
+          "FEE": "Free",
+          "DATE": "21 Jul, 2009"
+        },
+        {
+          "PLAYER": "Conor Grant",
+          "FROM": "Gretna",
+          "FEE": "Free",
+          "DATE": "01 Aug, 2009"
+        },
+        {
+          "PLAYER": "Nicky Weaver",
+          "FROM": "Charlton",
+          "FEE": "Free",
+          "DATE": "06 Aug, 2009"
+        },
+        {
+          "PLAYER": "Pavels Mihadjuks",
+          "FROM": "Inverness CT",
+          "FEE": "Free",
+          "DATE": "08 Feb, 2010"
+        },
+        {
+          "PLAYER": "Filip Mentel",
+          "FROM": "Man City",
+          "FEE": "Free",
+          "DATE": "08 Jul, 2010"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Euan McLean",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2009"
+        },
+        {
+          "PLAYER": "Gordon Pope",
+          "TO": "Montrose",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2009"
+        },
+        {
+          "PLAYER": "Sean Fleming",
+          "TO": "Montrose",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2009"
+        },
+        {
+          "PLAYER": "Michael McGovern",
+          "TO": "Ross County",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2009"
+        },
+        {
+          "PLAYER": "Danny Grainger",
+          "TO": "St Johnstone",
+          "FEE": "Free",
+          "DATE": "15 Jul, 2009"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Kemoko Camara",
+          "DATE": "28 Oct, 2009",
+          "": ""
+        },
+        {
+          "PLAYER": "Mark Fotheringham",
+          "DATE": "31 Dec, 2009",
+          "": ""
+        },
+        {
+          "PLAYER": "Nicky Weaver",
+          "DATE": "04 Jan, 2010",
+          "": ""
+        },
+        {
+          "PLAYER": "Lee Wilkie",
+          "DATE": "31 May, 2010",
+          "": ""
+        },
+        {
+          "PLAYER": "Greg Cameron",
+          "DATE": "31 May, 2010",
+          "": ""
+        },
+        {
+          "PLAYER": "Marco Andreoni",
+          "DATE": "31 May, 2010",
+          "": ""
+        },
+        {
+          "PLAYER": "Pavels Mihadjuks",
+          "DATE": "31 May, 2010",
+          "": ""
+        },
+        {
+          "PLAYER": "Conor Grant",
+          "DATE": "31 May, 2010",
+          "": ""
+        },
+        {
+          "PLAYER": "Kevin Smith",
+          "DATE": "01 Jul, 2010",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 138,
+    "start_year": 2009,
+    "end_year": 2008,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Scott Robertson",
+          "FROM": "Dundee",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 2008"
+        },
+        {
+          "PLAYER": "Dusan Pernis",
+          "FROM": "Zilina",
+          "FEE": "",
+          "DATE": "01 Jan, 2009"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Steven Robb",
+          "TO": "St Mirren",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2008"
+        },
+        {
+          "PLAYER": "Ewan McLean",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2008"
+        },
+        {
+          "PLAYER": "Mark Kerr",
+          "TO": "Aberdeen",
+          "FEE": "Free",
+          "DATE": "07 Jul, 2008"
+        },
+        {
+          "PLAYER": "Noel Hunt",
+          "TO": "Reading",
+          "FEE": "£600,000",
+          "DATE": "23 Jul, 2008"
+        },
+        {
+          "PLAYER": "Marco Andreoni",
+          "TO": "Albion",
+          "FEE": "Transfer",
+          "DATE": "12 Dec, 2008"
+        },
+        {
+          "PLAYER": "Fraser Milligan",
+          "TO": "Montrose",
+          "FEE": "",
+          "DATE": "01 Jun, 2009"
+        },
+        {
+          "PLAYER": "Lukasz Zaluska",
+          "TO": "Celtic",
+          "FEE": "Free",
+          "DATE": "01 Jun, 2009"
+        },
+        {
+          "PLAYER": "Total: £600,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "David Goodroy",
+          "DATE": "31 Aug, 2008",
+          "": ""
+        },
+        {
+          "PLAYER": "Mark De Vries",
+          "DATE": "01 Jan, 2009",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 137,
+    "start_year": 2008,
+    "end_year": 2007,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Prince Buaben",
+          "FROM": "Ajax",
+          "FEE": "Free",
+          "DATE": "20 Jul, 2007"
+        },
+        {
+          "PLAYER": "Grzegorz Szamotulski",
+          "FROM": "Sturm Graz",
+          "FEE": "Free",
+          "DATE": "25 Jul, 2007"
+        },
+        {
+          "PLAYER": "Danny Grainger",
+          "FROM": "Gretna",
+          "FEE": "Signed",
+          "DATE": "01 Jan, 2008"
+        },
+        {
+          "PLAYER": "Danny Swanson",
+          "FROM": "Berwick",
+          "FEE": "Signed",
+          "DATE": "01 Jan, 2008"
+        },
+        {
+          "PLAYER": "Michael Kovacevic",
+          "FROM": "Koper",
+          "FEE": "Signed",
+          "DATE": "18 Jan, 2008"
+        },
+        {
+          "PLAYER": "Mark De Vries",
+          "FROM": "Leicester",
+          "FEE": "Signed",
+          "DATE": "25 Jan, 2008"
+        },
+        {
+          "PLAYER": "Michael McGovern",
+          "FROM": "Celtic",
+          "FEE": "Free",
+          "DATE": "17 Jun, 2008"
+        },
+        {
+          "PLAYER": "Andis Shala",
+          "FROM": "VFR Mannheim",
+          "FEE": "Free",
+          "DATE": "17 Jun, 2008"
+        },
+        {
+          "PLAYER": "Paul Dixon",
+          "FROM": "Dundee",
+          "FEE": "Signed",
+          "DATE": "23 Jun, 2008"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Derek Stillie",
+          "TO": "Gillingham",
+          "FEE": "Free",
+          "DATE": "26 Jul, 2007"
+        },
+        {
+          "PLAYER": "David Proctor",
+          "TO": "Inverness CT",
+          "FEE": "Free",
+          "DATE": "31 Aug, 2007"
+        },
+        {
+          "PLAYER": "William Easton",
+          "TO": "Ayr",
+          "FEE": "Free",
+          "DATE": "05 Jan, 2008"
+        },
+        {
+          "PLAYER": "Stuart Duff",
+          "TO": "Aberdeen",
+          "FEE": "Signed",
+          "DATE": "18 Jan, 2008"
+        },
+        {
+          "PLAYER": "Barry Robson",
+          "TO": "Celtic",
+          "FEE": "£1,250,000",
+          "DATE": "31 Jan, 2008"
+        },
+        {
+          "PLAYER": "Grant Smith",
+          "TO": "Carlisle",
+          "FEE": "Signed",
+          "DATE": "08 Feb, 2008"
+        },
+        {
+          "PLAYER": "Grzegorz Szamotulski",
+          "TO": "Preston",
+          "FEE": "Free",
+          "DATE": "08 Feb, 2008"
+        },
+        {
+          "PLAYER": "Sean Anderson",
+          "TO": "East Stirling",
+          "FEE": "Free",
+          "DATE": "07 May, 2008"
+        },
+        {
+          "PLAYER": "Christian Kalvenes",
+          "TO": "Burnley",
+          "FEE": "Free",
+          "DATE": "26 Jun, 2008"
+        },
+        {
+          "PLAYER": "Total: £1,250,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 136,
+    "start_year": 2007,
+    "end_year": 2006,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Christian Kalvenes",
+          "FROM": "Brann",
+          "FEE": "Signed",
+          "DATE": "02 Aug, 2006"
+        },
+        {
+          "PLAYER": "David Proctor",
+          "FROM": "Inverness CT",
+          "FEE": "£35,000",
+          "DATE": "11 Aug, 2006"
+        },
+        {
+          "PLAYER": "Grant Smith",
+          "FROM": "Bristol C",
+          "FEE": "Signed",
+          "DATE": "23 Sep, 2006"
+        },
+        {
+          "PLAYER": "Morgaro Gomis",
+          "FROM": "Cowdenbeath",
+          "FEE": "Nominal",
+          "DATE": "01 Jan, 2007"
+        },
+        {
+          "PLAYER": "Jon Daly",
+          "FROM": "Hartlepool",
+          "FEE": "Signed",
+          "DATE": "08 Jan, 2007"
+        },
+        {
+          "PLAYER": "Sean Dillon",
+          "FROM": "Shelbourne",
+          "FEE": "Signed",
+          "DATE": "10 Jan, 2007"
+        },
+        {
+          "PLAYER": "Lukasz Zaluska",
+          "FROM": "Korona Kielce",
+          "FEE": "Nominal",
+          "DATE": "30 May, 2007"
+        },
+        {
+          "PLAYER": "Darren Dods",
+          "FROM": "Inverness CT",
+          "FEE": "Signed",
+          "DATE": "22 Jun, 2007"
+        },
+        {
+          "PLAYER": "Total: £35,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Derek McInnes",
+          "TO": "Millwall",
+          "FEE": "Free",
+          "DATE": "03 Jul, 2006"
+        },
+        {
+          "PLAYER": "Jim McIntyre",
+          "TO": "Dunfermline",
+          "FEE": "Free",
+          "DATE": "13 Jul, 2006"
+        },
+        {
+          "PLAYER": "David Fernandez",
+          "TO": "Kilmarnock",
+          "FEE": "Free",
+          "DATE": "01 Aug, 2006"
+        },
+        {
+          "PLAYER": "Craig Samson",
+          "TO": "Ross County",
+          "FEE": "Signed",
+          "DATE": "05 Aug, 2006"
+        },
+        {
+          "PLAYER": "Lee Miller",
+          "TO": "Aberdeen",
+          "FEE": "Signed",
+          "DATE": "31 Aug, 2006"
+        },
+        {
+          "PLAYER": "Craig Brewster",
+          "TO": "Aberdeen",
+          "FEE": "Signed",
+          "DATE": "01 Jan, 2007"
+        },
+        {
+          "PLAYER": "Alan Archibald",
+          "TO": "Partick",
+          "FEE": "Free",
+          "DATE": "31 Jan, 2007"
+        },
+        {
+          "PLAYER": "Lee Mair",
+          "TO": "Aberdeen",
+          "FEE": "Free",
+          "DATE": "30 May, 2007"
+        },
+        {
+          "PLAYER": "Barry Callaghan",
+          "TO": "Brechin",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2007"
+        },
+        {
+          "PLAYER": "Collin Samuel",
+          "TO": "Toronto FC",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2007"
+        },
+        {
+          "PLAYER": "David McCracken",
+          "TO": "Wycombe",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2007"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Gregg Burnett",
+          "DATE": "31 May, 2007",
+          "": ""
+        },
+        {
+          "PLAYER": "Paul Ritchie",
+          "DATE": "31 May, 2007",
+          "": ""
+        },
+        {
+          "PLAYER": "Stuart Abbot",
+          "DATE": "31 May, 2007",
+          "": ""
+        },
+        {
+          "PLAYER": "William Russell",
+          "DATE": "31 May, 2007",
+          "": ""
+        },
+        {
+          "PLAYER": "John Gibson",
+          "DATE": "31 May, 2007",
+          "": ""
+        },
+        {
+          "PLAYER": "Ross Gardiner",
+          "DATE": "01 Jul, 2007",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 135,
+    "start_year": 2006,
+    "end_year": 2005,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Derek Stillie",
+          "FROM": "Dunfermline",
+          "FEE": "Signed",
+          "DATE": "07 Jul, 2005"
+        },
+        {
+          "PLAYER": "Craig Samson",
+          "FROM": "Kilmarnock",
+          "FEE": "Free",
+          "DATE": "29 Jul, 2005"
+        },
+        {
+          "PLAYER": "David Fernandez",
+          "FROM": "Celtic",
+          "FEE": "Signed",
+          "DATE": "14 Aug, 2005"
+        },
+        {
+          "PLAYER": "Peter Canero",
+          "FROM": "Leicester",
+          "FEE": "Signed",
+          "DATE": "06 Sep, 2005"
+        },
+        {
+          "PLAYER": "Craig Brewster",
+          "FROM": "Inverness CT",
+          "FEE": "Signed",
+          "DATE": "16 Jan, 2006"
+        },
+        {
+          "PLAYER": "Steven Robb",
+          "FROM": "Dundee",
+          "FEE": "Free",
+          "DATE": "20 Jun, 2006"
+        },
+        {
+          "PLAYER": "Craig Conway",
+          "FROM": "Ayr",
+          "FEE": "Signed",
+          "DATE": "20 Jun, 2006"
+        },
+        {
+          "PLAYER": "Noel Hunt",
+          "FROM": "Dunfermline",
+          "FEE": "£50,000",
+          "DATE": "20 Jun, 2006"
+        },
+        {
+          "PLAYER": "Total: £50,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Tony Bullock",
+          "TO": "Gillingham",
+          "FEE": "Free",
+          "DATE": "29 Jun, 2005"
+        },
+        {
+          "PLAYER": "Andy McLaren",
+          "TO": "Morton",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2005"
+        },
+        {
+          "PLAYER": "James Grady",
+          "TO": "Gretna",
+          "FEE": "Free",
+          "DATE": "04 Aug, 2005"
+        },
+        {
+          "PLAYER": "Jason Scotland",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "27 Aug, 2005"
+        },
+        {
+          "PLAYER": "Stephen Crawford",
+          "TO": "Aberdeen",
+          "FEE": "Signed",
+          "DATE": "31 Aug, 2005"
+        },
+        {
+          "PLAYER": "Scott Paterson",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "31 Aug, 2005"
+        },
+        {
+          "PLAYER": "Graeme Holmes",
+          "TO": "Airdrieonians",
+          "FEE": "Signed",
+          "DATE": "11 Nov, 2005"
+        },
+        {
+          "PLAYER": "Mark Wilson",
+          "TO": "Celtic",
+          "FEE": "£500,000",
+          "DATE": "16 Jan, 2006"
+        },
+        {
+          "PLAYER": "Billy Dodds",
+          "TO": "Partick",
+          "FEE": "Free",
+          "DATE": "20 Jan, 2006"
+        },
+        {
+          "PLAYER": "Total: £500,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Peter Canero",
+          "DATE": "31 Dec, 2005",
+          "": ""
+        },
+        {
+          "PLAYER": "Watson",
+          "DATE": "31 May, 2006",
+          "": ""
+        },
+        {
+          "PLAYER": "Grant Brebner",
+          "DATE": "28 Jun, 2006",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 134,
+    "start_year": 2005,
+    "end_year": 2004,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Lars Hirschfeld",
+          "FROM": "Tottenham",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 2004"
+        },
+        {
+          "PLAYER": "Grant Brebner",
+          "FROM": "Hibernian",
+          "FEE": "Signed",
+          "DATE": "27 Aug, 2004"
+        },
+        {
+          "PLAYER": "Stephen Crawford",
+          "FROM": "Plymouth",
+          "FEE": "£80,000",
+          "DATE": "04 Jan, 2005"
+        },
+        {
+          "PLAYER": "Lee Mair",
+          "FROM": "Stockport",
+          "FEE": "Signed",
+          "DATE": "14 Jan, 2005"
+        },
+        {
+          "PLAYER": "Lee Miller",
+          "FROM": "Bristol C",
+          "FEE": "£225,000",
+          "DATE": "03 Jun, 2005"
+        },
+        {
+          "PLAYER": "Total: £305,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Jim Paterson",
+          "TO": "Motherwell",
+          "FEE": "Free",
+          "DATE": "14 Jul, 2004"
+        },
+        {
+          "PLAYER": "Charlie Miller",
+          "TO": "Brann",
+          "FEE": "Free",
+          "DATE": "16 Jul, 2004"
+        },
+        {
+          "PLAYER": "Owen Coyle",
+          "TO": "Airdrieonians",
+          "FEE": "Free",
+          "DATE": "20 Jul, 2004"
+        },
+        {
+          "PLAYER": "Shaun Molloy",
+          "TO": "Queen's Park",
+          "FEE": "",
+          "DATE": "30 Jul, 2004"
+        },
+        {
+          "PLAYER": "Aaron Conway",
+          "TO": "Clyde",
+          "FEE": "Free",
+          "DATE": "27 Aug, 2004"
+        },
+        {
+          "PLAYER": "Steven Anderson",
+          "TO": "St Johnstone",
+          "FEE": "Youth",
+          "DATE": "28 Aug, 2004"
+        },
+        {
+          "PLAYER": "Steven Bell",
+          "TO": "Queen of Sth",
+          "FEE": "Free",
+          "DATE": "14 Jan, 2005"
+        },
+        {
+          "PLAYER": "Chris Innes",
+          "TO": "Gretna",
+          "FEE": "Free",
+          "DATE": "29 Jan, 2005"
+        },
+        {
+          "PLAYER": "Lars Hirschfeld",
+          "TO": "Leicester",
+          "FEE": "Free",
+          "DATE": "29 Jan, 2005"
+        },
+        {
+          "PLAYER": "Stephen O'Donnell",
+          "TO": "Boston Utd",
+          "FEE": "Free",
+          "DATE": "31 Jan, 2005"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Paul Jarvie",
+          "DATE": "31 Jan, 2005",
+          "": ""
+        },
+        {
+          "PLAYER": "Karim Kerkar",
+          "DATE": "31 May, 2005",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 133,
+    "start_year": 2004,
+    "end_year": 2003,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Mark Kerr",
+          "FROM": "Falkirk",
+          "FEE": "",
+          "DATE": "01 Jul, 2003"
+        },
+        {
+          "PLAYER": "Barry Robson",
+          "FROM": "Inverness CT",
+          "FEE": "£50,000",
+          "DATE": "01 Jul, 2003"
+        },
+        {
+          "PLAYER": "Derek McInnes",
+          "FROM": "West Brom",
+          "FEE": "Free",
+          "DATE": "11 Jul, 2003"
+        },
+        {
+          "PLAYER": "Owen Coyle",
+          "FROM": "Falkirk",
+          "FEE": "Free",
+          "DATE": "11 Jul, 2003"
+        },
+        {
+          "PLAYER": "Collin Samuel",
+          "FROM": "Falkirk",
+          "FEE": "£100,000",
+          "DATE": "16 Jul, 2003"
+        },
+        {
+          "PLAYER": "Andy McLaren",
+          "FROM": "Kilmarnock",
+          "FEE": "Free",
+          "DATE": "28 Aug, 2003"
+        },
+        {
+          "PLAYER": "Chris Innes",
+          "FROM": "Kilmarnock",
+          "FEE": "",
+          "DATE": "31 Aug, 2003"
+        },
+        {
+          "PLAYER": "James Grady",
+          "FROM": "Partick",
+          "FEE": "Free",
+          "DATE": "02 Jun, 2004"
+        },
+        {
+          "PLAYER": "Paul Ritchie",
+          "FROM": "Walsall",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2004"
+        },
+        {
+          "PLAYER": "Total: £150,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Derek Lilley",
+          "TO": "Livingston",
+          "FEE": "Free",
+          "DATE": "04 Jul, 2003"
+        },
+        {
+          "PLAYER": "Allan Smart",
+          "TO": "Crewe",
+          "FEE": "Free",
+          "DATE": "15 Aug, 2003"
+        },
+        {
+          "PLAYER": "Danny Griffin",
+          "TO": "Stockport",
+          "FEE": "Free",
+          "DATE": "08 Jan, 2004"
+        },
+        {
+          "PLAYER": "Gary Bollan",
+          "TO": "Motherwell",
+          "FEE": "Free",
+          "DATE": "14 Jan, 2004"
+        },
+        {
+          "PLAYER": "Daniele Chiarini",
+          "TO": "Partick",
+          "FEE": "Signed",
+          "DATE": "13 Feb, 2004"
+        },
+        {
+          "PLAYER": "Paul Gallacher",
+          "TO": "Norwich",
+          "FEE": "Free",
+          "DATE": "02 Jun, 2004"
+        },
+        {
+          "PLAYER": "Craig Easton",
+          "TO": "Livingston",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2004"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Jim Lauchlan",
+          "DATE": "01 Jul, 2003",
+          "": ""
+        },
+        {
+          "PLAYER": "Stephen McGowan",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Steven Anderson",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Michael Lau",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Daniel Ogunmade",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Steven Craig",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Andy Hunter",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Joseph Andrew",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Nicky McDonald",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Andrew Black",
+          "DATE": "31 May, 2004",
+          "": ""
+        },
+        {
+          "PLAYER": "Kenny Jarvis",
+          "DATE": "31 May, 2004",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 132,
+    "start_year": 2003,
+    "end_year": 2002,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Kevin McGowne",
+          "FROM": "Kilmarnock",
+          "FEE": "Signed",
+          "DATE": "05 Jul, 2002"
+        },
+        {
+          "PLAYER": "Arnar Gunnlaugsson",
+          "FROM": "Leicester",
+          "FEE": "Free",
+          "DATE": "31 Jul, 2002"
+        },
+        {
+          "PLAYER": "Billy Dodds",
+          "FROM": "Rangers",
+          "FEE": "Free",
+          "DATE": "01 Jan, 2003"
+        },
+        {
+          "PLAYER": "Daniele Chiarini",
+          "FROM": "Partick",
+          "FEE": "Free",
+          "DATE": "10 Jan, 2003"
+        },
+        {
+          "PLAYER": "Gary Bollan",
+          "FROM": "Livingston",
+          "FEE": "Signed",
+          "DATE": "28 Jan, 2003"
+        },
+        {
+          "PLAYER": "Russell Latapy",
+          "FROM": "Rangers",
+          "FEE": "Free",
+          "DATE": "01 Mar, 2003"
+        },
+        {
+          "PLAYER": "Alan Archibald",
+          "FROM": "Partick",
+          "FEE": "Free",
+          "DATE": "04 Jun, 2003"
+        },
+        {
+          "PLAYER": "Scott Paterson",
+          "FROM": "Partick",
+          "FEE": "Free",
+          "DATE": "04 Jun, 2003"
+        },
+        {
+          "PLAYER": "Tony Bullock",
+          "FROM": "Ross County",
+          "FEE": "Signed",
+          "DATE": "27 Jun, 2003"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "David Partridge",
+          "TO": "Motherwell",
+          "FEE": "Free",
+          "DATE": "19 Jul, 2002"
+        },
+        {
+          "PLAYER": "Jamie Fullarton",
+          "TO": "Brentford",
+          "FEE": "Free",
+          "DATE": "09 Aug, 2002"
+        },
+        {
+          "PLAYER": "Hasney Aljofree",
+          "TO": "Plymouth",
+          "FEE": "Free",
+          "DATE": "30 Aug, 2002"
+        },
+        {
+          "PLAYER": "Stephen Wright",
+          "TO": "Scunthorpe",
+          "FEE": "Free",
+          "DATE": "06 Sep, 2002"
+        },
+        {
+          "PLAYER": "Steven Thompson",
+          "TO": "Rangers",
+          "FEE": "Signed",
+          "DATE": "01 Jan, 2003"
+        },
+        {
+          "PLAYER": "Tassos Venetis",
+          "TO": "Ross County",
+          "FEE": "Free",
+          "DATE": "17 Jan, 2003"
+        },
+        {
+          "PLAYER": "Jim Hamilton",
+          "TO": "Dunfermline",
+          "FEE": "Free",
+          "DATE": "31 Mar, 2003"
+        },
+        {
+          "PLAYER": "Stephen McConalogue",
+          "TO": "Clyde",
+          "FEE": "Free",
+          "DATE": "01 Jun, 2003"
+        },
+        {
+          "PLAYER": "Alan Combe",
+          "TO": "Bradford",
+          "FEE": "Free",
+          "DATE": "03 Jun, 2003"
+        },
+        {
+          "PLAYER": "Russell Latapy",
+          "TO": "Falkirk",
+          "FEE": "Free",
+          "DATE": "14 Jun, 2003"
+        },
+        {
+          "PLAYER": "Hugh Davidson",
+          "TO": "Forfar",
+          "FEE": "Free",
+          "DATE": "23 Jun, 2003"
+        },
+        {
+          "PLAYER": "Jamie McCunnie",
+          "TO": "Ross County",
+          "FEE": "Signed",
+          "DATE": "27 Jun, 2003"
+        },
+        {
+          "PLAYER": "David Winters",
+          "TO": "Ross County",
+          "FEE": "Signed",
+          "DATE": "27 Jun, 2003"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Kevin McGowne",
+          "DATE": "17 Jan, 2003",
+          "": ""
+        },
+        {
+          "PLAYER": "Arnar Gunnlaugsson",
+          "DATE": "31 Jan, 2003",
+          "": ""
+        },
+        {
+          "PLAYER": "Steven Carson",
+          "DATE": "19 May, 2003",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 131,
+    "start_year": 2002,
+    "end_year": 2001,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Jim McIntyre",
+          "FROM": "Reading",
+          "FEE": "Free",
+          "DATE": "04 Jul, 2001"
+        },
+        {
+          "PLAYER": "Steven Carson",
+          "FROM": "Rangers",
+          "FEE": "£150,000",
+          "DATE": "09 Aug, 2001"
+        },
+        {
+          "PLAYER": "Marc Cocozza",
+          "FROM": "Celtic",
+          "FEE": "Free",
+          "DATE": "07 Nov, 2001"
+        },
+        {
+          "PLAYER": "Allan Smart",
+          "FROM": "Oldham",
+          "FEE": "Free",
+          "DATE": "19 Jun, 2002"
+        },
+        {
+          "PLAYER": "Total: £150,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Darren Brady",
+          "TO": "Livingston",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 2001"
+        },
+        {
+          "PLAYER": "Steven Fallon",
+          "TO": "Arbroath",
+          "FEE": "Free",
+          "DATE": "05 Jul, 2001"
+        },
+        {
+          "PLAYER": "Anthony Smith",
+          "TO": "Airdrie (old)",
+          "FEE": "Signed",
+          "DATE": "24 Jul, 2001"
+        },
+        {
+          "PLAYER": "John Duffy",
+          "TO": "Peterhead",
+          "FEE": "Signed",
+          "DATE": "25 Jul, 2001"
+        },
+        {
+          "PLAYER": "Jason De Vos",
+          "TO": "Wigan",
+          "FEE": "£500,000",
+          "DATE": "27 Jul, 2001"
+        },
+        {
+          "PLAYER": "Neil Heaney",
+          "TO": "Plymouth",
+          "FEE": "Signed",
+          "DATE": "04 Dec, 2001"
+        },
+        {
+          "PLAYER": "John McQuillan",
+          "TO": "Montrose",
+          "FEE": "Free",
+          "DATE": "07 Feb, 2002"
+        },
+        {
+          "PLAYER": "Shaun O'Connor",
+          "TO": "Queen of Sth",
+          "FEE": "Signed",
+          "DATE": "14 Mar, 2002"
+        },
+        {
+          "PLAYER": "Jamie Buchan",
+          "TO": "Partick",
+          "FEE": "Free",
+          "DATE": "20 Jun, 2002"
+        },
+        {
+          "PLAYER": "Total: £500,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Kevin McDonald",
+          "DATE": "11 Oct, 2001",
+          "": ""
+        },
+        {
+          "PLAYER": "Blair Sturrock",
+          "DATE": "11 Oct, 2001",
+          "": ""
+        },
+        {
+          "PLAYER": "David Hannah",
+          "DATE": "14 Mar, 2002",
+          "": ""
+        },
+        {
+          "PLAYER": "Marc Cocozza",
+          "DATE": "30 Mar, 2002",
+          "": ""
+        },
+        {
+          "PLAYER": "Mvondo Atangana",
+          "DATE": "04 Apr, 2002",
+          "": ""
+        },
+        {
+          "PLAYER": "Jon Thompson",
+          "DATE": "01 Jun, 2002",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 130,
+    "start_year": 2001,
+    "end_year": 2000,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Neil Heaney",
+          "FROM": "Darlington",
+          "FEE": "£200,000",
+          "DATE": "24 Jul, 2000"
+        },
+        {
+          "PLAYER": "Stephen Wright",
+          "FROM": "Bradford",
+          "FEE": "Nominal",
+          "DATE": "21 Aug, 2000"
+        },
+        {
+          "PLAYER": "Alphonse Tchami",
+          "FROM": "Al Wasl",
+          "FEE": "Free",
+          "DATE": "25 Aug, 2000"
+        },
+        {
+          "PLAYER": "Reynaldo Clavasquin",
+          "FROM": "Montagua",
+          "FEE": "Signed",
+          "DATE": "22 Sep, 2000"
+        },
+        {
+          "PLAYER": "Gustavo Fuentes",
+          "FROM": "Montagua",
+          "FEE": "Signed",
+          "DATE": "22 Sep, 2000"
+        },
+        {
+          "PLAYER": "Pancho Ramirez",
+          "FROM": "Montagua",
+          "FEE": "Signed",
+          "DATE": "22 Sep, 2000"
+        },
+        {
+          "PLAYER": "Jim Lauchlan",
+          "FROM": "Kilmarnock",
+          "FEE": "£100,000",
+          "DATE": "27 Oct, 2000"
+        },
+        {
+          "PLAYER": "Charlie Miller",
+          "FROM": "Watford",
+          "FEE": "Free",
+          "DATE": "03 Nov, 2000"
+        },
+        {
+          "PLAYER": "Jamie Fullarton",
+          "FROM": "C Palace",
+          "FEE": "Free",
+          "DATE": "10 Nov, 2000"
+        },
+        {
+          "PLAYER": "Derek Lilley",
+          "FROM": "Oxford",
+          "FEE": "£100,000",
+          "DATE": "14 Dec, 2000"
+        },
+        {
+          "PLAYER": "Raul Sanchez",
+          "FROM": "Barcelona",
+          "FEE": "Monthly",
+          "DATE": "25 Jan, 2001"
+        },
+        {
+          "PLAYER": "Darren Brady",
+          "FROM": "Airdrie (old)",
+          "FEE": "Signed",
+          "DATE": "01 Mar, 2001"
+        },
+        {
+          "PLAYER": "Total: £400,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Iain Jenkins",
+          "TO": "Shrewsbury",
+          "FEE": "Free",
+          "DATE": "07 Jul, 2000"
+        },
+        {
+          "PLAYER": "Scott McCulloch",
+          "TO": "Cardiff",
+          "FEE": "£100,000",
+          "DATE": "01 Sep, 2000"
+        },
+        {
+          "PLAYER": "Alex Mathie",
+          "TO": "York",
+          "FEE": "Free",
+          "DATE": "28 Sep, 2000"
+        },
+        {
+          "PLAYER": "Darren Patterson",
+          "TO": "York",
+          "FEE": "Free",
+          "DATE": "07 Dec, 2000"
+        },
+        {
+          "PLAYER": "David Worrell",
+          "TO": "Plymouth",
+          "FEE": "Nominal",
+          "DATE": "23 Jan, 2001"
+        },
+        {
+          "PLAYER": "Total: £100,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Reynaldo Clavasquin",
+          "DATE": "30 Oct, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Carlos Marcora",
+          "DATE": "30 Oct, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Pancho Ramirez",
+          "DATE": "30 Oct, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Gustavo Fuentes",
+          "DATE": "30 Oct, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Dundee Utd Trialist",
+          "DATE": "30 Oct, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Marcelino Galoppo",
+          "DATE": "30 Oct, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "John Licina",
+          "DATE": "30 Nov, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Alphonse Tchami",
+          "DATE": "06 Dec, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Stephane Leoni",
+          "DATE": "06 Dec, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Joachim Fernandez",
+          "DATE": "11 Dec, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Raul Sanchez",
+          "DATE": "04 Apr, 2001",
+          "": ""
+        },
+        {
+          "PLAYER": "Beta Naveda",
+          "DATE": "20 May, 2001",
+          "": ""
+        },
+        {
+          "PLAYER": "Johnathan McKeith",
+          "DATE": "31 May, 2001",
+          "": ""
+        },
+        {
+          "PLAYER": "Paul Jarvie",
+          "DATE": "31 May, 2001",
+          "": ""
+        },
+        {
+          "PLAYER": "Pat Onstad",
+          "DATE": "31 May, 2001",
+          "": ""
+        },
+        {
+          "PLAYER": "Colin Reilly",
+          "DATE": "31 May, 2001",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 129,
+    "start_year": 2000,
+    "end_year": 1999,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Anthony Smith",
+          "FROM": "Airdrie (old)",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 1999"
+        },
+        {
+          "PLAYER": "Jan Telesnikov",
+          "FROM": "Beitar J'salem",
+          "FEE": "£450,000",
+          "DATE": "05 Aug, 1999"
+        },
+        {
+          "PLAYER": "David Byrne",
+          "FROM": "Shelbourne",
+          "FEE": "Signed",
+          "DATE": "17 Aug, 1999"
+        },
+        {
+          "PLAYER": "Raphael Bove",
+          "FROM": "Heerenveen",
+          "FEE": "Signed",
+          "DATE": "23 Sep, 1999"
+        },
+        {
+          "PLAYER": "Pat Onstad",
+          "FROM": "Rochester R",
+          "FEE": "£60,000",
+          "DATE": "20 Oct, 1999"
+        },
+        {
+          "PLAYER": "Jim Hamilton",
+          "FROM": "Aberdeen",
+          "FEE": "£150,000",
+          "DATE": "19 Jan, 2000"
+        },
+        {
+          "PLAYER": "John McQuillan",
+          "FROM": "St Johnstone",
+          "FEE": "£50,000",
+          "DATE": "17 Feb, 2000"
+        },
+        {
+          "PLAYER": "Shaun O'Connor",
+          "FROM": "Hednesford",
+          "FEE": "£30,000",
+          "DATE": "01 Mar, 2000"
+        },
+        {
+          "PLAYER": "Danny Griffin",
+          "FROM": "St Johnstone",
+          "FEE": "£600,000",
+          "DATE": "17 Jun, 2000"
+        },
+        {
+          "PLAYER": "Hasney Aljofree",
+          "FROM": "Bolton",
+          "FEE": "Free",
+          "DATE": "28 Jun, 2000"
+        },
+        {
+          "PLAYER": "Jamie Buchan",
+          "FROM": "Aberdeen",
+          "FEE": "Free",
+          "DATE": "29 Jun, 2000"
+        },
+        {
+          "PLAYER": "Total: £1,340,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Neil Duffy",
+          "TO": "Ayr",
+          "FEE": "Free",
+          "DATE": "02 Jun, 1999"
+        },
+        {
+          "PLAYER": "Kjell Olofsson",
+          "TO": "Moss FK",
+          "FEE": "Signed",
+          "DATE": "18 Jun, 1999"
+        },
+        {
+          "PLAYER": "Brian McLaughlin",
+          "TO": "Wigan",
+          "FEE": "Free",
+          "DATE": "23 Jun, 1999"
+        },
+        {
+          "PLAYER": "Neil Murray",
+          "TO": "Mainz",
+          "FEE": "Free",
+          "DATE": "01 Jul, 1999"
+        },
+        {
+          "PLAYER": "Chris Devine",
+          "TO": "Arbroath",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 1999"
+        },
+        {
+          "PLAYER": "Ian Murray",
+          "TO": "Hibernian",
+          "FEE": "Signed",
+          "DATE": "13 Jul, 1999"
+        },
+        {
+          "PLAYER": "Billy Dodds",
+          "TO": "Rangers",
+          "FEE": "£1,300,000",
+          "DATE": "05 Dec, 1999"
+        },
+        {
+          "PLAYER": "Chris Gentile",
+          "TO": "Dumbarton",
+          "FEE": "Signed",
+          "DATE": "25 Feb, 2000"
+        },
+        {
+          "PLAYER": "Neal Ferrie",
+          "TO": "Forfar",
+          "FEE": "Signed",
+          "DATE": "07 Jun, 2000"
+        },
+        {
+          "PLAYER": "Jan Telesnikov",
+          "TO": "Beitar J'salem",
+          "FEE": "£400,000",
+          "DATE": "01 Jul, 2000"
+        },
+        {
+          "PLAYER": "Joaquim Ferraz",
+          "TO": "Maritimo",
+          "FEE": "Free",
+          "DATE": "01 Jul, 2000"
+        },
+        {
+          "PLAYER": "Total: £1,700,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Sieb Dykstra",
+          "DATE": "11 Jun, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Tonny Mols",
+          "DATE": "01 Oct, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Jean-Pierre Delaunay",
+          "DATE": "30 Nov, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Raphael Bove",
+          "DATE": "30 Nov, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Mark McNally",
+          "DATE": "20 Dec, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Antoine Preget",
+          "DATE": "11 Apr, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Siggi Jonsson",
+          "DATE": "25 Apr, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Magnus Skoldmark",
+          "DATE": "19 May, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Bernard Pascual",
+          "DATE": "22 May, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "David Byrne",
+          "DATE": "31 May, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Stephen McCulloch",
+          "DATE": "01 Jun, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Marc Cooper",
+          "DATE": "01 Jun, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Joe Miller",
+          "DATE": "01 Jun, 2000",
+          "": ""
+        },
+        {
+          "PLAYER": "Maurice Malpas",
+          "DATE": "01 Jun, 2000",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 128,
+    "start_year": 1999,
+    "end_year": 1998,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Darren Patterson",
+          "FROM": "Luton",
+          "FEE": "Signed",
+          "DATE": "14 Jul, 1998"
+        },
+        {
+          "PLAYER": "Roger Boli",
+          "FROM": "Walsall",
+          "FEE": "£150,000",
+          "DATE": "15 Jul, 1998"
+        },
+        {
+          "PLAYER": "Tonny Mols",
+          "FROM": "Lokeren",
+          "FEE": "Signed",
+          "DATE": "31 Jul, 1998"
+        },
+        {
+          "PLAYER": "Bernard Pascual",
+          "FROM": "Le Havre",
+          "FEE": "Free",
+          "DATE": "01 Aug, 1998"
+        },
+        {
+          "PLAYER": "Billy Dodds",
+          "FROM": "Aberdeen",
+          "FEE": "Signed",
+          "DATE": "23 Sep, 1998"
+        },
+        {
+          "PLAYER": "Jason De Vos",
+          "FROM": "Darlington",
+          "FEE": "£400,000",
+          "DATE": "13 Oct, 1998"
+        },
+        {
+          "PLAYER": "Alex Mathie",
+          "FROM": "Ipswich",
+          "FEE": "£700,000",
+          "DATE": "16 Oct, 1998"
+        },
+        {
+          "PLAYER": "David Hannah",
+          "FROM": "Celtic",
+          "FEE": "£300,000",
+          "DATE": "05 Feb, 1999"
+        },
+        {
+          "PLAYER": "Scott McCulloch",
+          "FROM": "Dunfermline",
+          "FEE": "£300,000",
+          "DATE": "26 Feb, 1999"
+        },
+        {
+          "PLAYER": "David Partridge",
+          "FROM": "West Ham",
+          "FEE": "£40,000",
+          "DATE": "12 Mar, 1999"
+        },
+        {
+          "PLAYER": "David Worrell",
+          "FROM": "Blackburn",
+          "FEE": "£50,000",
+          "DATE": "30 Mar, 1999"
+        },
+        {
+          "PLAYER": "Brian McLaughlin",
+          "FROM": "Celtic",
+          "FEE": "Free",
+          "DATE": "01 Apr, 1999"
+        },
+        {
+          "PLAYER": "Total: £1,940,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Robbie Winters",
+          "TO": "Aberdeen",
+          "FEE": "£700,000",
+          "DATE": "23 Sep, 1998"
+        },
+        {
+          "PLAYER": "Gary McSwegan",
+          "TO": "Hearts",
+          "FEE": "Free",
+          "DATE": "10 Oct, 1998"
+        },
+        {
+          "PLAYER": "David Sinclair",
+          "TO": "Falkirk",
+          "FEE": "Signed",
+          "DATE": "16 Oct, 1998"
+        },
+        {
+          "PLAYER": "Roger Boli",
+          "TO": "Bournemouth",
+          "FEE": "£100,000",
+          "DATE": "22 Oct, 1998"
+        },
+        {
+          "PLAYER": "Richard Thomson",
+          "TO": "Cowdenbeath",
+          "FEE": "Signed",
+          "DATE": "27 Oct, 1998"
+        },
+        {
+          "PLAYER": "Paul McIlravey",
+          "TO": "Forfar",
+          "FEE": "Signed",
+          "DATE": "11 Dec, 1998"
+        },
+        {
+          "PLAYER": "Andrew Stewart",
+          "TO": "East Fife",
+          "FEE": "Signed",
+          "DATE": "19 Feb, 1999"
+        },
+        {
+          "PLAYER": "Jamie Dolan",
+          "TO": "Dunfermline",
+          "FEE": "Swap",
+          "DATE": "26 Feb, 1999"
+        },
+        {
+          "PLAYER": "Andy McLaren",
+          "TO": "Reading",
+          "FEE": "£100,000",
+          "DATE": "25 Mar, 1999"
+        },
+        {
+          "PLAYER": "Total: £900,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Paul Walker",
+          "DATE": "05 Nov, 1998",
+          "": ""
+        },
+        {
+          "PLAYER": "Julian Alsford",
+          "DATE": "01 Feb, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Erik Pedersen",
+          "DATE": "31 May, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Barry Donnachie",
+          "DATE": "31 May, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Lars Zetterlund",
+          "DATE": "31 May, 1999",
+          "": ""
+        },
+        {
+          "PLAYER": "Dale Gray",
+          "DATE": "01 Jun, 1999",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 127,
+    "start_year": 1998,
+    "end_year": 1997,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Magnus Skoldmark",
+          "FROM": "Dalian Wanda",
+          "FEE": "Signed",
+          "DATE": "19 Sep, 1997"
+        },
+        {
+          "PLAYER": "Mikael Andersson",
+          "FROM": "Orebro",
+          "FEE": "Monthly",
+          "DATE": "03 Nov, 1997"
+        },
+        {
+          "PLAYER": "Siggi Jonsson",
+          "FROM": "Orebro",
+          "FEE": "£75,000",
+          "DATE": "21 Nov, 1997"
+        },
+        {
+          "PLAYER": "Jean-Jacques Misse-Misse",
+          "FROM": "Trabzonspor",
+          "FEE": "Signed",
+          "DATE": "09 Jan, 1998"
+        },
+        {
+          "PLAYER": "Julian Alsford",
+          "FROM": "Chester FC",
+          "FEE": "Signed",
+          "DATE": "26 Mar, 1998"
+        },
+        {
+          "PLAYER": "Iain Jenkins",
+          "FROM": "Chester FC",
+          "FEE": "Signed",
+          "DATE": "26 Mar, 1998"
+        },
+        {
+          "PLAYER": "Alan Combe",
+          "FROM": "St Mirren",
+          "FEE": "Free",
+          "DATE": "17 Jun, 1998"
+        },
+        {
+          "PLAYER": "Mark McNally",
+          "FROM": "Stoke",
+          "FEE": "Free",
+          "DATE": "10 Jul, 1998"
+        },
+        {
+          "PLAYER": "Total: £75,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Marino Keith",
+          "TO": "Falkirk",
+          "FEE": "£40,000",
+          "DATE": "09 Sep, 1997"
+        },
+        {
+          "PLAYER": "Grant Johnson",
+          "TO": "Huddersfield",
+          "FEE": "£90,000",
+          "DATE": "15 Nov, 1997"
+        },
+        {
+          "PLAYER": "Jean-Jacques Misse-Misse",
+          "TO": "Chesterfield",
+          "FEE": "Signed",
+          "DATE": "13 Mar, 1998"
+        },
+        {
+          "PLAYER": "Dave Bowman",
+          "TO": "Raith",
+          "FEE": "Free",
+          "DATE": "19 Jun, 1998"
+        },
+        {
+          "PLAYER": "Steven Pressley",
+          "TO": "Hearts",
+          "FEE": "Free",
+          "DATE": "01 Jul, 1998"
+        },
+        {
+          "PLAYER": "Mark Perry",
+          "TO": "Aberdeen",
+          "FEE": "Free",
+          "DATE": "01 Jul, 1998"
+        },
+        {
+          "PLAYER": "Total: £130,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Mikael Andersson",
+          "DATE": "03 Dec, 1997",
+          "": ""
+        },
+        {
+          "PLAYER": "Ray McKinnon",
+          "DATE": "31 May, 1998",
+          "": ""
+        },
+        {
+          "PLAYER": "Ally Maxwell",
+          "DATE": "31 May, 1998",
+          "": ""
+        },
+        {
+          "PLAYER": "Stewart McKimmie",
+          "DATE": "31 May, 1998",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 126,
+    "start_year": 1997,
+    "end_year": 1996,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Neil Duffy",
+          "FROM": "Dundee",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1996"
+        },
+        {
+          "PLAYER": "Armand Benneker",
+          "FROM": "Maastricht",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1996"
+        },
+        {
+          "PLAYER": "Kjell Olofsson",
+          "FROM": "Moss FK",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1996"
+        },
+        {
+          "PLAYER": "Jim McInally",
+          "FROM": "Raith",
+          "FEE": "Signed",
+          "DATE": "03 Oct, 1996"
+        },
+        {
+          "PLAYER": "Erik Pedersen",
+          "FROM": "Viking",
+          "FEE": "Signed",
+          "DATE": "25 Oct, 1996"
+        },
+        {
+          "PLAYER": "Sieb Dykstra",
+          "FROM": "QPR",
+          "FEE": "£50,000",
+          "DATE": "04 Dec, 1996"
+        },
+        {
+          "PLAYER": "Jamie Dolan",
+          "FROM": "Motherwell",
+          "FEE": "Swap",
+          "DATE": "07 Jan, 1997"
+        },
+        {
+          "PLAYER": "David Sinclair",
+          "FROM": "Millwall",
+          "FEE": "£90,000",
+          "DATE": "31 Jan, 1997"
+        },
+        {
+          "PLAYER": "Stewart McKimmie",
+          "FROM": "Aberdeen",
+          "FEE": "Free",
+          "DATE": "19 Mar, 1997"
+        },
+        {
+          "PLAYER": "Total: £140,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Brian Welsh",
+          "TO": "Hibernian",
+          "FEE": "Signed",
+          "DATE": "07 Aug, 1996"
+        },
+        {
+          "PLAYER": "Christian Dailly",
+          "TO": "Derby",
+          "FEE": "£500,000",
+          "DATE": "12 Aug, 1996"
+        },
+        {
+          "PLAYER": "Marcus Dailly",
+          "TO": "Exeter",
+          "FEE": "Free",
+          "DATE": "16 Aug, 1996"
+        },
+        {
+          "PLAYER": "Kelham O'Hanlon",
+          "TO": "Preston",
+          "FEE": "£12,000",
+          "DATE": "06 Sep, 1996"
+        },
+        {
+          "PLAYER": "Rab Shannon",
+          "TO": "Hibernian",
+          "FEE": "Signed",
+          "DATE": "20 Oct, 1996"
+        },
+        {
+          "PLAYER": "David Hannah",
+          "TO": "Celtic",
+          "FEE": "£650,000",
+          "DATE": "28 Dec, 1996"
+        },
+        {
+          "PLAYER": "Jamie McQuilken",
+          "TO": "Hibernian",
+          "FEE": "Signed",
+          "DATE": "01 Jan, 1997"
+        },
+        {
+          "PLAYER": "Owen Coyle",
+          "TO": "Motherwell",
+          "FEE": "Swap",
+          "DATE": "07 Jan, 1997"
+        },
+        {
+          "PLAYER": "Scott Crabbe",
+          "TO": "Falkirk",
+          "FEE": "Signed",
+          "DATE": "19 Jan, 1997"
+        },
+        {
+          "PLAYER": "Lance Key",
+          "TO": "Sheff Utd",
+          "FEE": "Free",
+          "DATE": "14 Mar, 1997"
+        },
+        {
+          "PLAYER": "Jim McInally",
+          "TO": "Dundee",
+          "FEE": "Free",
+          "DATE": "03 Jun, 1997"
+        },
+        {
+          "PLAYER": "Total: £1,162,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Sandy Robertson",
+          "DATE": "31 May, 1997",
+          "": ""
+        },
+        {
+          "PLAYER": "Armand Benneker",
+          "DATE": "31 May, 1997",
+          "": ""
+        },
+        {
+          "PLAYER": "Paul Black",
+          "DATE": "31 May, 1997",
+          "": ""
+        },
+        {
+          "PLAYER": "Wirmolea",
+          "DATE": "31 May, 1997",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 125,
+    "start_year": 1996,
+    "end_year": 1995,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Rab Shannon",
+          "FROM": "Motherwell",
+          "FEE": "",
+          "DATE": "01 Aug, 1995"
+        },
+        {
+          "PLAYER": "Jim Bett",
+          "FROM": "Hearts",
+          "FEE": "",
+          "DATE": "29 Aug, 1995"
+        },
+        {
+          "PLAYER": "Jamie McQuilken",
+          "FROM": "Celtic",
+          "FEE": "£150,000",
+          "DATE": "04 Nov, 1995"
+        },
+        {
+          "PLAYER": "Lance Key",
+          "FROM": "Sheff Wed",
+          "FEE": "Free",
+          "DATE": "26 Jul, 1996"
+        },
+        {
+          "PLAYER": "Total: £150,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Scott Taylor",
+          "TO": "Montrose",
+          "FEE": "Signed",
+          "DATE": "02 Aug, 1995"
+        },
+        {
+          "PLAYER": "Stuart Garden",
+          "TO": "Brechin",
+          "FEE": "Free",
+          "DATE": "01 Sep, 1995"
+        },
+        {
+          "PLAYER": "David A Craig",
+          "TO": "Hamilton",
+          "FEE": "Swap",
+          "DATE": "01 Jan, 1996"
+        },
+        {
+          "PLAYER": "Chris Myers",
+          "TO": "Wrexham",
+          "FEE": "Free",
+          "DATE": "08 Jan, 1996"
+        },
+        {
+          "PLAYER": "Ian Lowe",
+          "TO": "Forfar",
+          "FEE": "Signed",
+          "DATE": "31 Mar, 1996"
+        },
+        {
+          "PLAYER": "Craig Brewster",
+          "TO": "Ionikos",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 1996"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Billy McKinlay",
+          "DATE": "12 Oct, 1995",
+          "": ""
+        },
+        {
+          "PLAYER": "Ryan Hegarty",
+          "DATE": "17 Nov, 1995",
+          "": ""
+        },
+        {
+          "PLAYER": "Paddy Connolly",
+          "DATE": "29 Mar, 1996",
+          "": ""
+        },
+        {
+          "PLAYER": "Neil Caldwell",
+          "DATE": "31 May, 1996",
+          "": ""
+        },
+        {
+          "PLAYER": "Ben Honeyman",
+          "DATE": "31 May, 1996",
+          "": ""
+        },
+        {
+          "PLAYER": "Jim Bett",
+          "DATE": "31 May, 1996",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 124,
+    "start_year": 1995,
+    "end_year": 1994,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "David A Craig",
+          "FROM": "East Stirling",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1994"
+        },
+        {
+          "PLAYER": "Kelham O'Hanlon",
+          "FROM": "Preston",
+          "FEE": "£30,000",
+          "DATE": "14 Sep, 1994"
+        },
+        {
+          "PLAYER": "Ally Maxwell",
+          "FROM": "Rangers",
+          "FEE": "£250,000",
+          "DATE": "27 Jun, 1995"
+        },
+        {
+          "PLAYER": "Neil Caldwell",
+          "FROM": "Rangers",
+          "FEE": "",
+          "DATE": "18 Jul, 1995"
+        },
+        {
+          "PLAYER": "Steven Pressley",
+          "FROM": "Coventry",
+          "FEE": "£750,000",
+          "DATE": "25 Jul, 1995"
+        },
+        {
+          "PLAYER": "Sandy Robertson",
+          "FROM": "Coventry",
+          "FEE": "£250,000",
+          "DATE": "28 Jul, 1995"
+        },
+        {
+          "PLAYER": "Total: £1,280,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "John O'Neil",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "04 Aug, 1994"
+        },
+        {
+          "PLAYER": "Andy Cargill",
+          "TO": "Dundee",
+          "FEE": "Signed",
+          "DATE": "23 Sep, 1994"
+        },
+        {
+          "PLAYER": "Alan Main",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "05 Jan, 1995"
+        },
+        {
+          "PLAYER": "Guido van de Kamp",
+          "TO": "Dunfermline",
+          "FEE": "Signed",
+          "DATE": "21 Jan, 1995"
+        },
+        {
+          "PLAYER": "Gary Bollan",
+          "TO": "Rangers",
+          "FEE": "Signed",
+          "DATE": "27 Jan, 1995"
+        },
+        {
+          "PLAYER": "Alex Cleland",
+          "TO": "Rangers",
+          "FEE": "Signed",
+          "DATE": "27 Jan, 1995"
+        },
+        {
+          "PLAYER": "Jim McInally",
+          "TO": "Raith",
+          "FEE": "£150,000",
+          "DATE": "05 Jul, 1995"
+        },
+        {
+          "PLAYER": "Gordan Petric",
+          "TO": "Rangers",
+          "FEE": "£1,500,000",
+          "DATE": "29 Jul, 1995"
+        },
+        {
+          "PLAYER": "Total: £1,650,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Stuart Gilmour",
+          "DATE": "31 May, 1995",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 123,
+    "start_year": 1994,
+    "end_year": 1993,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Craig Brewster",
+          "FROM": "Raith",
+          "FEE": "Signed",
+          "DATE": "05 Aug, 1993"
+        },
+        {
+          "PLAYER": "Chris Myers",
+          "FROM": "Torquay",
+          "FEE": "£100,000",
+          "DATE": "05 Aug, 1993"
+        },
+        {
+          "PLAYER": "Gordan Petric",
+          "FROM": "Partizan",
+          "FEE": "£600,000",
+          "DATE": "19 Nov, 1993"
+        },
+        {
+          "PLAYER": "Total: £700,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Allan Preston",
+          "TO": "Hearts",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1993"
+        },
+        {
+          "PLAYER": "Michael O'Neill",
+          "TO": "Hibernian",
+          "FEE": "Signed",
+          "DATE": "20 Aug, 1993"
+        },
+        {
+          "PLAYER": "Kevin Biggart",
+          "TO": "Ayr",
+          "FEE": "Signed",
+          "DATE": "13 Jan, 1994"
+        },
+        {
+          "PLAYER": "John Clark",
+          "TO": "Stoke",
+          "FEE": "£150,000",
+          "DATE": "10 Feb, 1994"
+        },
+        {
+          "PLAYER": "Total: £150,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Jerren Nixon",
+          "DATE": "31 May, 1994",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 122,
+    "start_year": 1993,
+    "end_year": 1992,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Scott Crabbe",
+          "FROM": "Hearts",
+          "FEE": "Signed",
+          "DATE": "03 Oct, 1992"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Ray McKinnon",
+          "TO": "Nottm Forest",
+          "FEE": "£750,000",
+          "DATE": "01 Aug, 1992"
+        },
+        {
+          "PLAYER": "Miodrag Krivokapic",
+          "TO": "Motherwell",
+          "FEE": "Signed",
+          "DATE": "10 Jul, 1993"
+        },
+        {
+          "PLAYER": "Duncan Ferguson",
+          "TO": "Rangers",
+          "FEE": "£4,000,000",
+          "DATE": "20 Jul, 1993"
+        },
+        {
+          "PLAYER": "Total: £4,750,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 121,
+    "start_year": 1992,
+    "end_year": 1991,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "David Hannah",
+          "FROM": "Hamilton Th",
+          "FEE": "Signed",
+          "DATE": "04 Sep, 1991"
+        },
+        {
+          "PLAYER": "Robbie Winters",
+          "FROM": "Muirend Am",
+          "FEE": "Signed",
+          "DATE": "11 Jan, 1992"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Hamish French",
+          "TO": "Dunfermline",
+          "FEE": "Signed",
+          "DATE": "23 Oct, 1991"
+        },
+        {
+          "PLAYER": "Garry Orr",
+          "TO": "Queen's Park",
+          "FEE": "",
+          "DATE": "14 Feb, 1992"
+        },
+        {
+          "PLAYER": "Mixu Paatelainen",
+          "TO": "Aberdeen",
+          "FEE": "Signed",
+          "DATE": "31 Mar, 1992"
+        },
+        {
+          "PLAYER": "Scott Y Thomson",
+          "TO": "Forfar",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 1992"
+        },
+        {
+          "PLAYER": "Darren Jackson",
+          "TO": "Hibernian",
+          "FEE": "£400,000",
+          "DATE": "14 Jul, 1992"
+        },
+        {
+          "PLAYER": "Graeme McCheyne",
+          "TO": "Clyde",
+          "FEE": "Signed",
+          "DATE": "29 Jul, 1992"
+        },
+        {
+          "PLAYER": "Total: £400,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 120,
+    "start_year": 1991,
+    "end_year": 1990,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Grant Johnson",
+          "FROM": "Broughtyferry",
+          "FEE": "Signed",
+          "DATE": "07 Sep, 1990"
+        },
+        {
+          "PLAYER": "Guido van de Kamp",
+          "FROM": "Den Bosch",
+          "FEE": "£40,000",
+          "DATE": "27 Jul, 1991"
+        },
+        {
+          "PLAYER": "Total: £40,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Neil Duffy",
+          "TO": "Falkirk",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1990"
+        },
+        {
+          "PLAYER": "Billy Thomson",
+          "TO": "Motherwell",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 1991"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Freddy van der Hoorn",
+          "DATE": "31 May, 1991",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 119,
+    "start_year": 1990,
+    "end_year": 1989,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Michael O'Neill",
+          "FROM": "Newcastle",
+          "FEE": "Signed",
+          "DATE": "15 Aug, 1989"
+        },
+        {
+          "PLAYER": "Miodrag Krivokapic",
+          "FROM": "Crvena Zvezda",
+          "FEE": "£200,000",
+          "DATE": "23 Sep, 1989"
+        },
+        {
+          "PLAYER": "Duncan Ferguson",
+          "FROM": "Carse Thistle",
+          "FEE": "Signed",
+          "DATE": "01 Feb, 1990"
+        },
+        {
+          "PLAYER": "Total: £200,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Harry Curran",
+          "TO": "St Johnstone",
+          "FEE": "Signed",
+          "DATE": "12 Aug, 1989"
+        },
+        {
+          "PLAYER": "Vince Arkins",
+          "TO": "Home Farm",
+          "FEE": "Signed",
+          "DATE": "11 Oct, 1989"
+        },
+        {
+          "PLAYER": "Kevin Gallacher",
+          "TO": "Coventry",
+          "FEE": "£900,000",
+          "DATE": "29 Jan, 1990"
+        },
+        {
+          "PLAYER": "Total: £900,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 118,
+    "start_year": 1989,
+    "end_year": 1988,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Mark Perry",
+          "FROM": "Cove Rangers",
+          "FEE": "£10,000",
+          "DATE": "09 Aug, 1988"
+        },
+        {
+          "PLAYER": "Darren Jackson",
+          "FROM": "Newcastle",
+          "FEE": "£200,000",
+          "DATE": "16 Dec, 1988"
+        },
+        {
+          "PLAYER": "Gary Bollan",
+          "FROM": "Fairmuir BC",
+          "FEE": "Signed",
+          "DATE": "20 Jun, 1989"
+        },
+        {
+          "PLAYER": "Andy McLaren",
+          "FROM": "Rangers BC",
+          "FEE": "Signed",
+          "DATE": "20 Jun, 1989"
+        },
+        {
+          "PLAYER": "Total: £210,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 117,
+    "start_year": 1988,
+    "end_year": 1987,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Harry Curran",
+          "FROM": "Dumbarton",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1987"
+        },
+        {
+          "PLAYER": "Mixu Paatelainen",
+          "FROM": "FC Haka",
+          "FEE": "Signed",
+          "DATE": "01 Oct, 1987"
+        },
+        {
+          "PLAYER": "Vince Arkins",
+          "FROM": "Home Farm",
+          "FEE": "Signed",
+          "DATE": "09 Dec, 1987"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Paul Kinnaird",
+          "TO": "Motherwell",
+          "FEE": "Signed",
+          "DATE": "02 Mar, 1988"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Eamonn Bannon",
+          "DATE": "31 May, 1988",
+          "": ""
+        },
+        {
+          "PLAYER": "Ian Ferguson",
+          "DATE": "31 May, 1988",
+          "": ""
+        },
+        {
+          "PLAYER": "Dave Narey",
+          "DATE": "31 May, 1988",
+          "": ""
+        },
+        {
+          "PLAYER": "Paul Hegarty",
+          "DATE": "31 May, 1988",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 116,
+    "start_year": 1987,
+    "end_year": 1986,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Richard Gough",
+          "TO": "Tottenham",
+          "FEE": "£700,000",
+          "DATE": "20 Aug, 1986"
+        },
+        {
+          "PLAYER": "Tommy Coyne",
+          "TO": "Dundee",
+          "FEE": "Signed",
+          "DATE": "01 Dec, 1986"
+        },
+        {
+          "PLAYER": "Total: £700,000",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Sandy Clark",
+          "DATE": "31 May, 1987",
+          "": ""
+        },
+        {
+          "PLAYER": "Dave Beaumont",
+          "DATE": "31 May, 1987",
+          "": ""
+        },
+        {
+          "PLAYER": "John Holt",
+          "DATE": "31 May, 1987",
+          "": ""
+        },
+        {
+          "PLAYER": "Paul Sturrock",
+          "DATE": "31 May, 1987",
+          "": ""
+        },
+        {
+          "PLAYER": "Billy Kirkwood",
+          "DATE": "31 May, 1987",
+          "": ""
+        },
+        {
+          "PLAYER": "Ian Redford",
+          "DATE": "31 May, 1987",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 115,
+    "start_year": 1986,
+    "end_year": 1985,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Paul Kinnaird",
+          "FROM": "Norwich",
+          "FEE": "Free",
+          "DATE": "29 Nov, 1985"
+        },
+        {
+          "PLAYER": "Jim McInally",
+          "FROM": "Coventry",
+          "FEE": "Signed",
+          "DATE": "21 May, 1986"
+        },
+        {
+          "PLAYER": "Dave Bowman",
+          "FROM": "Coventry",
+          "FEE": "Signed",
+          "DATE": "28 May, 1986"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Alex Taylor",
+          "TO": "Hamilton",
+          "FEE": "Signed",
+          "DATE": "01 Jul, 1986"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 114,
+    "start_year": 1985,
+    "end_year": 1984,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Billy McKinlay",
+          "FROM": "Hamilton Th",
+          "FEE": "Free",
+          "DATE": "24 Jun, 1985"
+        },
+        {
+          "PLAYER": "Brian Welsh",
+          "FROM": "Tynecastle BC",
+          "FEE": "Signed",
+          "DATE": "24 Jun, 1985"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Eddie May",
+          "TO": "Hibernian",
+          "FEE": "Signed",
+          "DATE": "01 Jan, 1985"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Stuart Beedie",
+          "DATE": "31 May, 1985",
+          "": ""
+        },
+        {
+          "PLAYER": "Davie Dodds",
+          "DATE": "31 May, 1985",
+          "": ""
+        },
+        {
+          "PLAYER": "Ralph Milne",
+          "DATE": "31 May, 1985",
+          "": ""
+        },
+        {
+          "PLAYER": "Hamish McAlpine",
+          "DATE": "31 May, 1985",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 113,
+    "start_year": 1984,
+    "end_year": 1983,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Eddie May",
+          "FROM": "Hutchison V BC",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1983"
+        },
+        {
+          "PLAYER": "Tommy Coyne",
+          "FROM": "Clydebank",
+          "FEE": "Signed",
+          "DATE": "28 Oct, 1983"
+        },
+        {
+          "PLAYER": "Billy Thomson",
+          "FROM": "St Mirren",
+          "FEE": "£70,000",
+          "DATE": "01 Jul, 1984"
+        },
+        {
+          "PLAYER": "Total: £70,000",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 112,
+    "start_year": 1983,
+    "end_year": 1982,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "Paul Smith",
+          "FROM": "Dundee",
+          "FEE": "Signed",
+          "DATE": "01 Aug, 1982"
+        },
+        {
+          "PLAYER": "Kevin Gallacher",
+          "FROM": "Duntocher BC",
+          "FEE": "Transfer",
+          "DATE": "01 Jan, 1983"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "Paul Smith",
+          "TO": "Raith",
+          "FEE": "Signed",
+          "DATE": "14 Jan, 1983"
+        },
+        {
+          "PLAYER": "Total: £0",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 111,
+    "start_year": 1982,
+    "end_year": 1981,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Iain Phillip",
+          "DATE": "31 May, 1982",
+          "": ""
+        },
+        {
+          "PLAYER": "Derek Stark",
+          "DATE": "31 May, 1982",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 110,
+    "start_year": 1981,
+    "end_year": 1980,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Frank Kopel",
+          "DATE": "31 May, 1981",
+          "": ""
+        },
+        {
+          "PLAYER": "Graeme Payne",
+          "DATE": "31 May, 1981",
+          "": ""
+        },
+        {
+          "PLAYER": "Willie Pettigrew",
+          "DATE": "31 May, 1981",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 109,
+    "start_year": 1980,
+    "end_year": 1979,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "George Fleming",
+          "DATE": "31 May, 1980",
+          "": ""
+        },
+        {
+          "PLAYER": "Murray",
+          "DATE": "31 May, 1980",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 108,
+    "start_year": 1979,
+    "end_year": 1978,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 107,
+    "start_year": 1978,
+    "end_year": 1977,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 106,
+    "start_year": 1977,
+    "end_year": 1976,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 105,
+    "start_year": 1976,
+    "end_year": 1975,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 104,
+    "start_year": 1975,
+    "end_year": 1974,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 103,
+    "start_year": 1974,
+    "end_year": 1973,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "Sandy Davie",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Pat Gardner",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Andy Gray",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Jackie Copland",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Doug Houston",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Tommy Traynor",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Archie Knox",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Andy Rolland",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Doug Smith",
+          "DATE": "31 May, 1974",
+          "": ""
+        },
+        {
+          "PLAYER": "Walter Smith",
+          "DATE": "31 May, 1974",
+          "": ""
+        }
+      ]
+    }
+  },
+  {
+    "season": 102,
+    "start_year": 1973,
+    "end_year": 1972,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 101,
+    "start_year": 1972,
+    "end_year": 1971,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 100,
+    "start_year": 1971,
+    "end_year": 1970,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 99,
+    "start_year": 1970,
+    "end_year": 1969,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 98,
+    "start_year": 1969,
+    "end_year": 1968,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 97,
+    "start_year": 1968,
+    "end_year": 1967,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 96,
+    "start_year": 1967,
+    "end_year": 1966,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 95,
+    "start_year": 1966,
+    "end_year": 1965,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 94,
+    "start_year": 1965,
+    "end_year": 1964,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 93,
+    "start_year": 1964,
+    "end_year": 1963,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 92,
+    "start_year": 1963,
+    "end_year": 1962,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 91,
+    "start_year": 1962,
+    "end_year": 1961,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 90,
+    "start_year": 1961,
+    "end_year": 1960,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 89,
+    "start_year": 1960,
+    "end_year": 1959,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 88,
+    "start_year": 1959,
+    "end_year": 1958,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 87,
+    "start_year": 1958,
+    "end_year": 1957,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 86,
+    "start_year": 1957,
+    "end_year": 1956,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 85,
+    "start_year": 1956,
+    "end_year": 1955,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 84,
+    "start_year": 1955,
+    "end_year": 1954,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 83,
+    "start_year": 1954,
+    "end_year": 1953,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 82,
+    "start_year": 1953,
+    "end_year": 1952,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 81,
+    "start_year": 1952,
+    "end_year": 1951,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 80,
+    "start_year": 1951,
+    "end_year": 1950,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 79,
+    "start_year": 1950,
+    "end_year": 1949,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 78,
+    "start_year": 1949,
+    "end_year": 1948,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 77,
+    "start_year": 1948,
+    "end_year": 1947,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 76,
+    "start_year": 1947,
+    "end_year": 1946,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 75,
+    "start_year": 1946,
+    "end_year": 1945,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 74,
+    "start_year": 1945,
+    "end_year": 1944,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 73,
+    "start_year": 1944,
+    "end_year": 1943,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 72,
+    "start_year": 1943,
+    "end_year": 1942,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 71,
+    "start_year": 1942,
+    "end_year": 1941,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 70,
+    "start_year": 1941,
+    "end_year": 1940,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 69,
+    "start_year": 1940,
+    "end_year": 1939,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 68,
+    "start_year": 1939,
+    "end_year": 1938,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 67,
+    "start_year": 1938,
+    "end_year": 1937,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 66,
+    "start_year": 1937,
+    "end_year": 1936,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 65,
+    "start_year": 1936,
+    "end_year": 1935,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 64,
+    "start_year": 1935,
+    "end_year": 1934,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 63,
+    "start_year": 1934,
+    "end_year": 1933,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 62,
+    "start_year": 1933,
+    "end_year": 1932,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 61,
+    "start_year": 1932,
+    "end_year": 1931,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 60,
+    "start_year": 1931,
+    "end_year": 1930,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 59,
+    "start_year": 1930,
+    "end_year": 1929,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 58,
+    "start_year": 1929,
+    "end_year": 1928,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 57,
+    "start_year": 1928,
+    "end_year": 1927,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 56,
+    "start_year": 1927,
+    "end_year": 1926,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 55,
+    "start_year": 1926,
+    "end_year": 1925,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 54,
+    "start_year": 1925,
+    "end_year": 1924,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 53,
+    "start_year": 1924,
+    "end_year": 1923,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 52,
+    "start_year": 1923,
+    "end_year": 1922,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  },
+  {
+    "season": 51,
+    "start_year": 1922,
+    "end_year": 1921,
+    "data": {
+      "Players in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "FEE": null,
+          "DATE": null
+        }
+      ],
+      "Players loaned in": [
+        {
+          "PLAYER": "None",
+          "FROM": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players loaned out": [
+        {
+          "PLAYER": "None",
+          "TO": null,
+          "START": null,
+          "END": null
+        }
+      ],
+      "Players released": [
+        {
+          "PLAYER": "None",
+          "DATE": null,
+          "": null
+        }
+      ]
+    }
+  }
+]
